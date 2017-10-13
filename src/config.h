@@ -22,13 +22,13 @@
 #undef HAVE_STRINGS_H
 
 /* Define to 1 if you have the <string.h> header file. */
-#undef HAVE_STRING_H
+#define HAVE_STRING_H
 
 /* Define to 1 if you have the <sys/stat.h> header file. */
-#undef HAVE_SYS_STAT_H
+#define HAVE_SYS_STAT_H
 
 /* Define to 1 if you have the <sys/types.h> header file. */
-#undef HAVE_SYS_TYPES_H
+#define HAVE_SYS_TYPES_H
 
 /* Define to 1 if you have the <unistd.h> header file. */
 #undef HAVE_UNISTD_H
@@ -43,16 +43,19 @@
 #undef PACKAGE_NAME
 
 /* Define to the full name and version of this package. */
-#undef PACKAGE_STRING
+#define PACKAGE_STRING starspan_101
 
 /* Define to the one symbol short name of this package. */
-#undef PACKAGE_TARNAME
+#define PACKAGE_TARNAME s
 
 /* Define to the version of this package. */
 #undef PACKAGE_VERSION
 
 /* Define to 1 if you have the ANSI C header files. */
-#undef STDC_HEADERS
+#define STDC_HEADERS
 
 /* Version number of package */
-#undef VERSION
+#define VERSION "1.0.1"
+
+/* Major version number of the GEOS package */
+#define GEOS_VERSION_MAJOR 3
