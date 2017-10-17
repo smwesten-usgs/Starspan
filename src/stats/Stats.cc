@@ -4,7 +4,7 @@
 //	See Stats.h for public doc.
 //
 
-#include "Stats.h"
+#include "stats.h"
 
 #include <string>
 #include <map>

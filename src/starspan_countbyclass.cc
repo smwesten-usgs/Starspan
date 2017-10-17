@@ -7,7 +7,7 @@
 
 #include "starspan.h"           
 #include "traverser.h"       
-#include "Stats.h"       
+#include "stats.h"       
 #include "Csv.h"       
 
 #include <iostream>

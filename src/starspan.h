@@ -15,7 +15,7 @@
 #include "Raster.h"           
 #include "Vector.h"       
 #include "traverser.h"
-#include "Stats.h"       
+#include "stats.h"       
 
 #include <cstdio>
 
